@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapiljain1989
 - 👀 I have 11 years of industry expereince and wanted to give my support to opensource community
-- 🌱 I’m currently learning goLnag and want to contribute K8S 
+- 🌱 I’m currently learning goLnag and want to contribute in K8S project
 - 📫 How to reach me at kapiljain1989@gmail.com
 
 <!---
